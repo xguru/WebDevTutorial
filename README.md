@@ -44,7 +44,7 @@
     이제 위에서 만든 블로그를 자신의 주소로 만들어봅니다. 도메인을 구입하고, 네임서버에 등록하고 하는 과정을 알아봅니다. 그리고 가능하면 자기 도메인으로 이메일주소를 만들어서 사용해 봅니다. 개발자라면 이력서에 naver.com/gmail.com 보다는 자신의 도메인 메일 주소가 있는게 더 좋지 않을까요 ? ^^
 
     *   자신의 도메인 구입해서 등록해보기 ( SiteX.com 과 같은 형태의 도메인 )
-    *   DNSEVER 에 가입하고 자신의 DNS 서버로 등록해보기
+    *   [DNSzi](https://dnszi.com/) 등 무료도메인 서비스에 가입하고 자신의 DNS 서버로 등록해보기
     *   자신의 EC2 인스턴스에 Public IP 등록하고 위의 도메인을 연결해보기 ( blog.SiteX.com )
     *   자신의 도메인에 구글앱스 등록해보기. 지메일,캘린더 등을 자신의 도메인에 사용(30일간만 무료, 계속 사용시 월 $5 필요)
     *   구글앱스 대신 네이버 Works 무료 사용가능 [https://works.naver.com/](https://works.naver.com/)
@@ -56,7 +56,7 @@
     *   [http://getbootstrap.com/](http://getbootstrap.com/) 활용해서 디자인 신경쓰지 말고 만든다.
     *   프론트엔드에선 시대의 대세인 AngularJS 같은 걸 공부해보는 것도 좋습니다.
     *   백엔드는 왕도가 없지만, Python+Django ,Python+Flask , Node.js + Express , Ruby + Rails 같은 것으로 시작해봅니다.
-    *   DNSEVER 에서 이 웹사이트를 www.SiteX.com 으로 연결해보기
+    *   [DNSzi](https://dnszi.com/) 등 무료도메인 서비스에서 이 웹사이트를 www.SiteX.com 으로 연결해보기
     *   DB가 필요한 사이트가 대부분이므로 MySQL 사용법 공부 - [생활코딩의 MySQL강의](http://opentutorials.org/course/195/1467)
 *   **Git 공부하기**
 
