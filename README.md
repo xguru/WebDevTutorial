@@ -21,6 +21,7 @@
         * HTML Tag Reference - [http://www.w3schools.com/tags/default.asp](http://www.w3schools.com/tags/default.asp)
     *   Javascript - [http://www.codecademy.com/en/tracks/javascript](http://www.codecademy.com/en/tracks/javascript)
     *   jQuery - [http://www.codecademy.com/en/tracks/jquery](http://www.codecademy.com/en/tracks/jquery)
+        * jQuery API Documentation - [http://api.jquery.com/](http://api.jquery.com/)
     *   Make a Website - [http://www.codecademy.com/skills/make-a-website](http://www.codecademy.com/skills/make-a-website)
     *   Make a Interactive Web site - [http://www.codecademy.com/skills/make-an-interactive-website](http://www.codecademy.com/skills/make-an-interactive-website)
     *   웹개발 언어 세션 하나 선택 해서 수강 - Python / Ruby / PHP 중 하나
