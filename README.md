@@ -54,8 +54,15 @@
 
     *   손에 익은 개발 언어로 EC2인스턴스에 간단한 웹사이트 구현 - 복잡한것 말고 간단한 것으로 ( 체크리스트 , 간단한 게시판등 )
     *   [http://getbootstrap.com/](http://getbootstrap.com/) 활용해서 디자인 신경쓰지 말고 만든다.
-    *   프론트엔드에선 시대의 대세인 AngularJS 같은 걸 공부해보는 것도 좋습니다.
-    *   백엔드는 왕도가 없지만, Python+Django ,Python+Flask , Node.js + Express , Ruby + Rails 같은 것으로 시작해봅니다.
+    *   프론트엔드
+        * [Angular.js](http://angularjs.org/)(_추천_)
+        * [Backgone.js](http://backbonejs.org/)
+        * [Ember.js](http://emberjs.com/)
+    *   백엔드(_웹개발 구조의 기본인 MVC(Model-View-Controller) 개념을 처음 익히는데 Rails의 Getting Started를 한번 따라해보는 것을 권합니다_)
+        * [Python+Django](https://www.djangoproject.com/)
+        * [Python+Flask](http://flask.pocoo.org/)
+        * [Node.js + Express](http://expressjs.com/)
+        * [Ruby + Rails](http://guides.rubyonrails.org/getting_started.html)
     *   DNSEVER 에서 이 웹사이트를 www.SiteX.com 으로 연결해보기
     *   DB가 필요한 사이트가 대부분이므로 MySQL 사용법 공부 - [생활코딩의 MySQL강의](http://opentutorials.org/course/195/1467)
 *   **Git 공부하기**
