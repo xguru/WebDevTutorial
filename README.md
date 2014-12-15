@@ -63,6 +63,7 @@
         * [Angular.js](http://angularjs.org/)(_추천_)
         * [Backbone.js](http://backbonejs.org/)
         * [Ember.js](http://emberjs.com/)
+        * [React.js](http://facebook.github.io/react/)
     *   백엔드(_웹개발 구조의 기본인 MVC(Model-View-Controller) 개념을 처음 익히는데 Rails의 Getting Started를 한번 따라해보는 것을 권합니다_)
         * [Python+Django](https://www.djangoproject.com/)
         * [Python+Flask](http://flask.pocoo.org/)
@@ -80,7 +81,7 @@
     *   완전초보를 위한 GitHub [https://nolboo.github.io/blog/2013/10/06/github-for-beginner/](https://nolboo.github.io/blog/2013/10/06/github-for-beginner/)
     *   SiteX 의 코드를 GitHub 에 올려보기
     *   GitHub의 팁들 살펴보기 [https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
-    
+
 *   **Facebook 관련 개발 알아보기**
 
     페이스북은 10억 이상이 쓰는 거대한 SNS 이기도 하지만, 웹 환경에서 다양한 기능을 통해 수많은 웹사이트들과 연결되어 있습니다. 일반 웹사이트에 붙어있는 좋아요 버튼이 어떻게 동작하는지 알아보고,좋아요 버튼을 내 웹사이트에 붙여봅니다. 아예 로그인을 페이스북으로 하는 웹사이트를 만들어 봐도 좋습니다. 페이스북은 이제 자신이 만드는 웹사이트와 떼어낼 수 없는 관계입니다.
@@ -127,7 +128,7 @@
     *   SiteX 를 구글 광고 하나 만들어서 하루에 500원만 광고 돌려보기 ( 키워드 광고 와 디스플레이 광고 )
     *   Conversion Tracking 해보기 [https://support.google.com/adwords/answer/1722054?hl=en](https://support.google.com/adwords/answer/1722054?hl=en)
 
-아직 실험대상?들이 이걸 시행해본게 아니어서 계속 추가되고 변경될 것 같습니다. 
+아직 실험대상?들이 이걸 시행해본게 아니어서 계속 추가되고 변경될 것 같습니다.
 
 도움 주실 개발자 분들은 풀리퀘 날려주세요 ;)
 
