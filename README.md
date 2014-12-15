@@ -66,7 +66,9 @@
     *   Git 간편안내서 [http://rogerdudler.github.io/git-guide/index.ko.html](http://rogerdudler.github.io/git-guide/index.ko.html)
     *   Pro Git 한글판 [http://dogfeet.github.io/articles/2012/progit.html](http://dogfeet.github.io/articles/2012/progit.html)
     *   완전초보를 위한 GitHub [https://nolboo.github.io/blog/2013/10/06/github-for-beginner/](https://nolboo.github.io/blog/2013/10/06/github-for-beginner/)
-    *   SiteX 의 코드를 GitHub 에 올려본다.
+    *   SiteX 의 코드를 GitHub 에 올려보기
+    *   GitHub의 팁들 살펴보기 [https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
+    
 *   **Facebook 관련 개발 알아보기**
 
     페이스북은 10억 이상이 쓰는 거대한 SNS 이기도 하지만, 웹 환경에서 다양한 기능을 통해 수많은 웹사이트들과 연결되어 있습니다. 일반 웹사이트에 붙어있는 좋아요 버튼이 어떻게 동작하는지 알아보고,좋아요 버튼을 내 웹사이트에 붙여봅니다. 아예 로그인을 페이스북으로 하는 웹사이트를 만들어 봐도 좋습니다. 페이스북은 이제 자신이 만드는 웹사이트와 떼어낼 수 없는 관계입니다.
