@@ -29,7 +29,8 @@
     *   Ubuntu 인스턴스 만들어보기
     *   Apache 설치해 보기
     *   PHP 설치해 보기
-    *   MySQL 설치해 보기 - ( AWS 에서는 RDS를 쓰는게 보통이겠지만, 설치 경험이므로 그냥 한번 설치해봅니다. )*   위의 Apache/PHP/MySQL 을 RedHat 인스턴스로 만들어서도 한번 해보면 좋습니다.
+    *   MySQL 설치해 보기 - ( AWS 에서는 RDS를 쓰는게 보통이겠지만, 설치 경험이므로 그냥 한번 설치해봅니다. )
+    *   위의 Apache/PHP/MySQL 을 RedHat 인스턴스로 만들어서도 한번 해보면 좋습니다.
 *   **아마존 EC2에 Wordpress 설치해 보기**
 
     개발하기 전에 방금 만든 서버에 자신이 쓸 블로그를 하나 설치해봅니다. 가입형 블로그가 아닌 설치형 블로그를 한번 만져보는 것도 도움이 됩니다.
@@ -44,7 +45,7 @@
     이제 위에서 만든 블로그를 자신의 주소로 만들어봅니다. 도메인을 구입하고, 네임서버에 등록하고 하는 과정을 알아봅니다. 그리고 가능하면 자기 도메인으로 이메일주소를 만들어서 사용해 봅니다. 개발자라면 이력서에 naver.com/gmail.com 보다는 자신의 도메인 메일 주소가 있는게 더 좋지 않을까요 ? ^^
 
     *   자신의 도메인 구입해서 등록해보기 ( SiteX.com 과 같은 형태의 도메인 )
-    *   DNSEVER 에 가입하고 자신의 DNS 서버로 등록해보기
+    *   [DNSzi](https://dnszi.com/) 등 무료도메인 서비스에 가입하고 자신의 DNS 서버로 등록해보기
     *   자신의 EC2 인스턴스에 Public IP 등록하고 위의 도메인을 연결해보기 ( blog.SiteX.com )
     *   자신의 도메인에 구글앱스 등록해보기. 지메일,캘린더 등을 자신의 도메인에 사용(30일간만 무료, 계속 사용시 월 $5 필요)
     *   구글앱스 대신 네이버 Works 무료 사용가능 [https://works.naver.com/](https://works.naver.com/)
@@ -56,14 +57,14 @@
     *   [http://getbootstrap.com/](http://getbootstrap.com/) 활용해서 디자인 신경쓰지 말고 만든다.
     *   프론트엔드
         * [Angular.js](http://angularjs.org/)(_추천_)
-        * [Backgone.js](http://backbonejs.org/)
+        * [Backbone.js](http://backbonejs.org/)
         * [Ember.js](http://emberjs.com/)
     *   백엔드(_웹개발 구조의 기본인 MVC(Model-View-Controller) 개념을 처음 익히는데 Rails의 Getting Started를 한번 따라해보는 것을 권합니다_)
         * [Python+Django](https://www.djangoproject.com/)
         * [Python+Flask](http://flask.pocoo.org/)
         * [Node.js + Express](http://expressjs.com/)
         * [Ruby + Rails](http://guides.rubyonrails.org/getting_started.html)
-    *   DNSEVER 에서 이 웹사이트를 www.SiteX.com 으로 연결해보기
+    *   [DNSzi](https://dnszi.com/) 등 무료도메인 서비스에서 이 웹사이트를 www.SiteX.com 으로 연결해보기
     *   DB가 필요한 사이트가 대부분이므로 MySQL 사용법 공부 - [생활코딩의 MySQL강의](http://opentutorials.org/course/195/1467)
 *   **Git 공부하기**
 
