@@ -18,8 +18,10 @@
     최근엔 온라인에서 개발을 배워볼수 있는 많은 사이트들이 생기고 있습니다. 그중에서도 Codecademy 의 강의들은 웹개발을 시작하는 사람들에게 아주 도움이 됩니다. 아래 기본 세션 5개와 자신이 마음에 드는 언어 세션중 하나 ( 가능하면 모두 ) 를 들어보세요.
 
     *   HTML &amp; CSS - [http://www.codecademy.com/en/tracks/web](http://www.codecademy.com/en/tracks/web)
+        * HTML Tag Reference - [http://www.w3schools.com/tags/default.asp](http://www.w3schools.com/tags/default.asp)
     *   Javascript - [http://www.codecademy.com/en/tracks/javascript](http://www.codecademy.com/en/tracks/javascript)
     *   jQuery - [http://www.codecademy.com/en/tracks/jquery](http://www.codecademy.com/en/tracks/jquery)
+        * jQuery API Documentation - [http://api.jquery.com/](http://api.jquery.com/)
     *   Make a Website - [http://www.codecademy.com/skills/make-a-website](http://www.codecademy.com/skills/make-a-website)
     *   Make a Interactive Web site - [http://www.codecademy.com/skills/make-an-interactive-website](http://www.codecademy.com/skills/make-an-interactive-website)
     *   웹개발 언어 세션 하나 선택 해서 수강 - Python / Ruby / PHP 중 하나
