@@ -64,6 +64,7 @@
         * [Backbone.js](http://backbonejs.org/)
         * [Ember.js](http://emberjs.com/)
         * [React.js](http://facebook.github.io/react/)
+        * [TodoMVC](http://todomvc.com/) - 예제 TODO 앱 코드를 보면서 어떤 프레임워크가 적합한지 확인할 수 있다.
     *   백엔드(_웹개발 구조의 기본인 MVC(Model-View-Controller) 개념을 처음 익히는데 Rails의 Getting Started를 한번 따라해보는 것을 권합니다_)
         * [Python+Django](https://www.djangoproject.com/)
         * [Python+Flask](http://flask.pocoo.org/)
