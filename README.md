@@ -69,6 +69,8 @@
         * [Python+Flask](http://flask.pocoo.org/)
         * [Node.js + Express](http://expressjs.com/)
         * [Ruby + Rails](http://guides.rubyonrails.org/getting_started.html)
+    *   프론트와 백엔드를 함께
+        * [Meteor](https://www.meteor.com/)
     *   [DNSzi](https://dnszi.com/) 등 무료도메인 서비스에서 이 웹사이트를 www.SiteX.com 으로 연결해보기
     *   DB가 필요한 사이트가 대부분이므로 MySQL 사용법 공부 - [생활코딩의 MySQL강의](http://opentutorials.org/course/195/1467)
 *   **Git 공부하기**
