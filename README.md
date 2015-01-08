@@ -74,7 +74,7 @@
         * [Meteor](https://www.meteor.com/)
     *   [DNSzi](https://dnszi.com/) 등 무료도메인 서비스에서 이 웹사이트를 www.SiteX.com 으로 연결해보기
     *   DB가 필요한 사이트가 대부분이므로 MySQL 사용법 공부 - [생활코딩의 MySQL강의](http://opentutorials.org/course/195/1467)
-    
+
 *   **내게 맞는 IDE 선택하기**
     IDE는 통합 개발 환경의 약자로, 프로그래머가 사용하는 개발 도구를 의미합니다.
     *   [Eclipse](https://www.eclipse.org/) - Java로 유명해진 플러그인 기반의 오픈소스 IDE.
@@ -82,6 +82,7 @@
     *   [Sublime Text](http://www.sublimetext.com/) - 마크업 개발에 특화된 예쁜 IDE
     *   [Cloud9](https://c9.io/) - 클라우드 IDE. 설치 없이 클라우드에서 개발&배포가 가능해 매우 편리하다.
     *   [Nitrous](https://www.nitrous.io/) - Cloud9과 유사한 IDE. 터미널 반응속도가 매우 빠르다.
+    *   [Atom](https://atom.io/) - github에서 개발한 IDE. Node.js 기반으로 개발됐다.
 *   **Git 공부하기**
 
     아마 앞에서 웹사이트를 그냥 만들어 봤다면, 소스를 저장하고 버전별로 관리하는게 어렵다는걸 느꼈을겁니다. 이제 Git 을 배워봅니다.
