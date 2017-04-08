@@ -30,6 +30,7 @@
 *   **아마존에 EC2 인스턴스 만들기 - 돈안드는 마이크로 인스턴스로**
 
     일단 웹 개발을 시작하기 전에 자신이 만들 웹사이트가 들어갈 서버를 만들어 보는 것도 필요합니다. 예전엔 이런거 할때 Vmware/VirtualBox 같은 가상머신 설치하고 해보라고 했지만, 요즘은 그냥 바로 클라우드로 테스트 하는게 더 좋습니다. 아마존 웹서비스에 대해서 알아둔다 생각하고 관련된 것들을 가능한 많이 읽어보기를 권합니다. [생활코딩의 AWS 가이드](http://opentutorials.org/course/608/3002) 나 [아마존 웹 서비스를 다루는 기술](http://www.yes24.com/24/goods/14673234) ([온라인 버전](http://pyrasis.com/book/TheArtOfAmazonWebServices)) 같은 책을 참고하셔도 됩니다만, 가능하면 한글화 되어있는 [아마존의 EC2 가이드](http://aws.amazon.com/ko/documentation/ec2/) 와 같은 공식 매뉴얼을 참고하셔서 직접 공부하면서 보시기를 권합니다. 마이크로 인스턴스는 초기에는 무료지만 특정 사용량 이상 넘어가면 과금되므로 유의해야 합니다.
+    *   무료 아마존 웹 서비스, 100% 알뜰하게 사용하는 방법 - [http://www.oss.kr/oss_news/81434](http://www.oss.kr/oss_news/81434)
     *   Ubuntu 인스턴스 만들어보기
     *   Apache 설치해 보기
     *   PHP 설치해 보기
@@ -74,7 +75,7 @@
         * [Meteor](https://www.meteor.com/)
     *   [DNSzi](https://dnszi.com/) 등 무료도메인 서비스에서 이 웹사이트를 www.SiteX.com 으로 연결해보기
     *   DB가 필요한 사이트가 대부분이므로 MySQL 사용법 공부 - [생활코딩의 MySQL강의](http://opentutorials.org/course/195/1467)
-    
+
 *   **내게 맞는 IDE 선택하기**
     IDE는 통합 개발 환경의 약자로, 프로그래머가 사용하는 개발 도구를 의미합니다.
     *   [Eclipse](https://www.eclipse.org/) - Java로 유명해진 플러그인 기반의 오픈소스 IDE.
@@ -82,6 +83,7 @@
     *   [Sublime Text](http://www.sublimetext.com/) - 마크업 개발에 특화된 예쁜 IDE
     *   [Cloud9](https://c9.io/) - 클라우드 IDE. 설치 없이 클라우드에서 개발&배포가 가능해 매우 편리하다.
     *   [Nitrous](https://www.nitrous.io/) - Cloud9과 유사한 IDE. 터미널 반응속도가 매우 빠르다.
+    *   [Atom](https://atom.io/) - github에서 개발한 IDE. Node.js 기반으로 개발됐다.
 *   **Git 공부하기**
 
     아마 앞에서 웹사이트를 그냥 만들어 봤다면, 소스를 저장하고 버전별로 관리하는게 어렵다는걸 느꼈을겁니다. 이제 Git 을 배워봅니다.
