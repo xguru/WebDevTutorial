@@ -40,7 +40,7 @@
     개발하기 전에 방금 만든 서버에 자신이 쓸 블로그를 하나 설치해봅니다. 가입형 블로그가 아닌 설치형 블로그를 한번 만져보는 것도 도움이 됩니다.
 
     *   한개의 인스턴스에 MySQL로 설치해보기
-    *   위 인스턴스 설정과 다르게 RDS/S3 이용하는 형태로 설치해보기 - [AWS에 워드프레스 설치하기](http://blog.dudmy.net/aws-wordpress-install-1-ec2/) 참고
+    *   위 인스턴스 설정과 다르게 RDS/S3 이용하는 형태로 설치해보기 - [AWS에 워드프레스 설치하기](http://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/hosting-wordpress.html?tag=amazonsearchshop-20) 참고
     *   워드 프레스 설치후 글 3개 이상 써보기 - 위의 과정과 **앞으로 이 체크리스트를 따라하면서 겪은 일들/배운 점등을 적어보면** 어떨까요?
     *   필수 플러그인 뭔지 하나하나 자세히 알아보고 설치 해보기 - Akismet , WordPress SEO by Yoast, WP Super Cache , Jetpack by Wordpress, Google XML Sitemaps, Twitter Tools , WPTouch , Google Analytics for Wordpress
     *   맘에 드는 테마 하나 입혀보기
@@ -74,7 +74,7 @@
         * [Meteor](https://www.meteor.com/)
     *   [DNSzi](https://dnszi.com/) 등 무료도메인 서비스에서 이 웹사이트를 www.SiteX.com 으로 연결해보기
     *   DB가 필요한 사이트가 대부분이므로 MySQL 사용법 공부 - [생활코딩의 MySQL강의](http://opentutorials.org/course/195/1467)
-    
+
 *   **내게 맞는 IDE 선택하기**
     IDE는 통합 개발 환경의 약자로, 프로그래머가 사용하는 개발 도구를 의미합니다.
     *   [Eclipse](https://www.eclipse.org/) - Java로 유명해진 플러그인 기반의 오픈소스 IDE.
