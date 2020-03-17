@@ -20,7 +20,7 @@
     *   HTML &amp; CSS - [http://www.codecademy.com/tracks/korean-web](http://www.codecademy.com/tracks/korean-web)
         * HTML Tag Reference - [http://html5ref.clearboth.org/](http://html5ref.clearboth.org/)
     *   Javascript - [http://www.codecademy.com/en/tracks/javascript-ko](http://www.codecademy.com/en/tracks/javascript-ko)
-    *   jQuery - [http://www.codecademy.com/en/tracks/jquery-ko](http://www.codecademy.com/en/tracks/jquery-ko)
+    *   jQuery - [http://www.codecademy.com/en/tracks/jquery](http://www.codecademy.com/en/tracks/jquery)
         * jQuery API Documentation - [http://api.jquery.com/](http://api.jquery.com/)
     *   Make a Website - [http://www.codecademy.com/skills/make-a-website](http://www.codecademy.com/skills/make-a-website)
     *   Make a Interactive Web site (영문) - [http://www.codecademy.com/skills/make-an-interactive-website](http://www.codecademy.com/skills/make-an-interactive-website)
