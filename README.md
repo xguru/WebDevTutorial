@@ -15,18 +15,24 @@
     *   웹을 지탱하는 기술 - [http://xguru.net/1033](http://xguru.net/1033) 동명의 책으로도 나와있습니다.
 *   **Codecademy 기본 수강하기**
 
-    최근엔 온라인에서 개발을 배워볼수 있는 많은 사이트들이 생기고 있습니다. 그중에서도 Codecademy 의 강의들은 웹개발을 시작하는 사람들에게 아주 도움이 됩니다. 아래 기본 세션 5개와 자신이 마음에 드는 언어 세션중 하나 ( 가능하면 모두 ) 를 들어보세요.
-
-    *   HTML &amp; CSS - [http://www.codecademy.com/tracks/korean-web](http://www.codecademy.com/tracks/korean-web)
-        * HTML Tag Reference - [http://html5ref.clearboth.org/](http://html5ref.clearboth.org/)
-    *   Javascript - [http://www.codecademy.com/en/tracks/javascript-ko](http://www.codecademy.com/en/tracks/javascript-ko)
-    *   jQuery - [http://www.codecademy.com/en/tracks/jquery](http://www.codecademy.com/en/tracks/jquery)
+    최근엔 온라인에서 개발을 배워볼수 있는 많은 사이트들이 생기고 있습니다. 그중에서도 Codecademy 의 강의들은 웹개발을 시작하는 사람들에게 아주 도움이 됩니다. 아래 기본 세션 5개와 자신이 마음에 드는 언어 세션중 하나 ( 가능하면 모두 ) 를 들어보세요. 
+    
+    *   HTML - [https://www.codecademy.com/learn/learn-html](https://www.codecademy.com/learn/learn-html)
+    *   CSS - [https://www.codecademy.com/learn/learn-css](https://www.codecademy.com/learn/learn-css)
+    *   JavaScript - [https://www.codecademy.com/learn/introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+    *   jQuery - [https://www.codecademy.com/learn/learn-jquery](https://www.codecademy.com/learn/learn-jquery)
         * jQuery API Documentation - [http://api.jquery.com/](http://api.jquery.com/)
-    *   Make a Website - [http://www.codecademy.com/skills/make-a-website](http://www.codecademy.com/skills/make-a-website)
-    *   Make a Interactive Web site (영문) - [http://www.codecademy.com/skills/make-an-interactive-website](http://www.codecademy.com/skills/make-an-interactive-website)
+    *   Make a Website - [https://www.codecademy.com/learn/make-a-website](http://www.codecademy.com/skills/make-a-website)
+    *   Make a Interactive Web site (영문) - [https://www.codecademy.com/learn/build-interactive-websites](http://www.codecademy.com/skills/make-an-interactive-website)
     *   웹개발 언어 세션 하나 선택 해서 수강 - Python / Ruby 중 하나
-        *   Python - [http://www.codecademy.com/tracks/python-ko](http://www.codecademy.com/tracks/python-ko)
-        *   Ruby - [http://www.codecademy.com/tracks/ruby-ko](http://www.codecademy.com/tracks/ruby-ko)
+        *   Python - [https://www.codecademy.com/learn/learn-python](https://www.codecademy.com/learn/learn-python)
+        *   Ruby - [https://www.codecademy.com/learn/learn-ruby](https://www.codecademy.com/learn/learn-ruby)
+        *   PHP - [https://www.codecademy.com/learn/learn-php](https://www.codecademy.com/learn/learn-php)
+
+Codecademy 개편으로 한국어 강의는 없어졌습니다. 비슷한 내용을 Mozilla 의 한국어판 웹사이트에서 보셔도 됩니다. 
+    *   Web 개발 학습하기 [https://developer.mozilla.org/ko/docs/Learn](https://developer.mozilla.org/ko/docs/Learn)    
+        HTML / CSS / JavaScript / Python / Node.js 등을 설명하는 웹사이트 입니다.
+
 *   **아마존에 EC2 인스턴스 만들기 - 돈안드는 마이크로 인스턴스로**
 
     일단 웹 개발을 시작하기 전에 자신이 만들 웹사이트가 들어갈 서버를 만들어 보는 것도 필요합니다. 예전엔 이런거 할때 Vmware/VirtualBox 같은 가상머신 설치하고 해보라고 했지만, 요즘은 그냥 바로 클라우드로 테스트 하는게 더 좋습니다. 아마존 웹서비스에 대해서 알아둔다 생각하고 관련된 것들을 가능한 많이 읽어보기를 권합니다. [생활코딩의 AWS 가이드](http://opentutorials.org/course/608/3002) 나 [아마존 웹 서비스를 다루는 기술](http://www.yes24.com/24/goods/14673234) ([온라인 버전](http://pyrasis.com/book/TheArtOfAmazonWebServices)) 같은 책을 참고하셔도 됩니다만, 가능하면 한글화 되어있는 [아마존의 EC2 가이드](http://aws.amazon.com/ko/documentation/ec2/) 와 같은 공식 매뉴얼을 참고하셔서 직접 공부하면서 보시기를 권합니다. 마이크로 인스턴스는 초기에는 무료지만 특정 사용량 이상 넘어가면 과금되므로 유의해야 합니다.
